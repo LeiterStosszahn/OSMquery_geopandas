@@ -1,4 +1,4 @@
-import sys, datetime
+import datetime
 from OSMquery_geopandas import *
 
 if __name__ == "__main__":
