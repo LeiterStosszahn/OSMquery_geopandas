@@ -1,5 +1,5 @@
 # OSMQuery with geopandas
-This modification based on [OSMQuery](https://github.com/riccardoklinger/OSMquery), a [Python Toolbox](https://pro.arcgis.com/en/pro-app/arcpy/geoprocessing_and_python/a-quick-tour-of-python-toolboxes.htm) for making it easy (easier) to get data out of [OpenStreetMap (OSM)](https://wiki.openstreetmap.org) and into the Esri ecosystem. With OSMQuery, you can query an area of interest for OSM data (of specified kind) and obtain feature layers of the results, with point, line and/or area features depending on what kind of data OSM holds for your area. This toolbox works both in ArcGIS Pro and in ArcGIS Desktop 10.x.
+This modification based on [OSMQuery](https://github.com/riccardoklinger/OSMquery), a tool for making it easy (easier) to get data out of [OpenStreetMap (OSM)](https://wiki.openstreetmap.org) and into the Esri ecosystem. With OSMQuery, you can query an area of interest for OSM data (of specified kind) and obtain feature layers of the results, with point, line and/or area features depending on what kind of data OSM holds for your area. This toolbox works both in ArcGIS Pro and in ArcGIS Desktop 10.x.
 
 ## Prerequisites
 This tool was developed using geopandas, do not need the basement of any edition of ArcGIS.
